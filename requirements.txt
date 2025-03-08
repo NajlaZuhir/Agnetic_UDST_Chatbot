@@ -1,0 +1,15 @@
+# Core dependencies
+requests
+beautifulsoup4
+fpdf
+streamlit
+openai
+python-dotenv
+
+# RAG Document Processing & LLM Integration
+llama-index
+
+# Optional ML Utilities (if using additional intent classification features)
+scikit-learn
+sentence-transformers
+nltk
