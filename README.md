@@ -71,4 +71,5 @@ streamlit run app.py
 Feel free to fork this repository, submit issues, or suggest improvements! 🚀
 
 
+Note: Check the Other Agentic Rag Approaches Folder for different implementation approaches
 
