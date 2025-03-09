@@ -1,4 +1,4 @@
-# Needs slight Modification 
+# NEEDS SLIGHT MODIFICATION
 
 from llama_index.core import Settings
 import os
